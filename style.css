@@ -85,6 +85,10 @@ body {
   margin: 1.4rem 0rem;
 }
 
+.title__question:hover {
+  color: var(--softRed);
+}
+
 .question {
   display: flex;
   justify-content: space-between;
